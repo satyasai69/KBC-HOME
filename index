@@ -1,0 +1,399 @@
+175 
+
+
+
+<div class="nav-menu-wrapper">
+        <nav role="navigation" class="nav-menu w-nav-menu">
+          <div class="tablet-menu">
+            <a
+              href="/"
+              aria-current="page"
+              class="brand tablet w-nav-brand w--current"
+            >
+              <img src="./logo.jpeg" loading="lazy" alt="" class="eye-logo" />
+            </a>
+            <div class="close-menu-button w-nav-button">
+              <img
+                src="https://assets-global.website-files.com/64f4d4be366fe5c8cbd6904c/64f4d4be366fe5c8cbd690fc_close-btn.svg"
+                loading="lazy"
+                alt="icon"
+                class="nav-close-icon"
+              />
+            </div>
+          </div>
+          <div class="menu-wrap">
+            <div class="header-link-wrapper left-header">
+              <div
+                data-hover="true"
+                data-delay="0"
+                data-ms-content=""
+                class="nav-dropdown w-dropdown"
+              >
+              <div class="nav-dropdown-toggle w-dropdown-toggle">
+                <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                <p class="nav-item-title"></p>
+              </div>
+              <nav class="nav-dropdown-list w-dropdown-list">
+                <div class="nav-dropdown-link-wrapper">
+                  <a
+                    href="/horoscopes#tab-2:1"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:2"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Taurus
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:3"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Gemini
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:4"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Cancer
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:5"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Leo
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:6"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Virgo
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:7"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Libra
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:8"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Scorpio
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:9"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Sagittarius
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:10"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Capricorn
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:11"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Aquarius
+                  </a>
+                  <a
+                    href="/horoscopes#tab-2:12"
+                    class="nav-dropdown-link-hidden w-dropdown-link"
+                  >
+                    <span class="nav-dropdown-link-line"></span>
+                    Pisces
+                  </a>
+                  </div>
+                </nav>
+              </div>
+              <a href="/forecasts" class="nav-link w-nav-link">Forecasts</a>
+              <a href="/events" class="nav-link w-nav-link">Events</a>
+              <a href="/courses" class="nav-link w-nav-link">Masterclass</a>
+              <a href="/tree-of-life" class="nav-link w-nav-link"
+                ></a
+              >
+            </div>
+            <a href="/dashboard" class="brand navmenu w-nav-brand">
+              <img src="./logo.jpeg" loading="lazy" alt="" class="eye-logo" />
+            </a>
+            <div class="header-link-wrapper justify-end-header">
+              <a href="/book" class="nav-link w-nav-link">Our Book</a>
+              <a href="/blog" class="nav-link w-nav-link">Blog</a>
+              <a href="/about-us" class="nav-link w-nav-link">About</a>
+              <div
+                data-hover="true"
+                data-delay="0"
+                data-ms-content=""
+                class="nav-dropdown w-dropdown"
+              >
+                <div class="nav-dropdown-toggle w-dropdown-toggle">
+                  <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                  <p class="nav-item-title">Tools</p>
+                </div>
+                <nav class="nav-dropdown-list w-dropdown-list">
+                  <div class="nav-dropdown-link-wrapper">
+                    <a
+                      href="/luminary-calculator"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      moon calculator
+                    </a>
+                    <a
+                      href="/moon-calculator-landing-results"
+                      id="moon-results"
+                      data-ms-content="!classes"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      Moon Results
+                    </a>
+                  </div>
+                </nav>
+              </div>
+              <a href="/dashboard" class="nav-link w-nav-link">Dashboard</a>
+              <a href="/profile" class="nav-link w-nav-link">My Profile</a>
+              <a
+                href="#"
+                data-ms-action="logout"
+                class="nav-link w-inline-block"
+              >
+                <div>Logout</div>
+              </a>
+            </div>
+          </div>
+        </nav>
+        <a
+          href="/"
+          aria-current="page"
+          class="brand tablet w-nav-brand w--current"
+        >
+          <img src="./logo.jpeg" loading="lazy" alt="" class="eye-logo" />
+        </a>
+        <div class="button-tablet-wrapper">
+          <div class="menu-button w-nav-button">
+            <img
+              src="https://assets-global.website-files.com/64f4d4be366fe5c8cbd6904c/64f4d4be366fe5c8cbd690fb_menu-btn.svg"
+              loading="lazy"
+              alt="icon"
+              height="16"
+              class="image-burger"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      id="container-members"
+      data-ms-content="!members"
+      class="nav-container nomembers w-container"
+    >
+      <div class="nav-menu-wrapper">
+        <nav role="navigation" class="nav-menu w-nav-menu">
+          <div class="tablet-menu">
+            <a
+              href="/"
+              aria-current="page"
+              class="brand tablet w-nav-brand w--current"
+            >
+              <img src="./logo.jpeg" loading="lazy" alt="" class="eye-logo" />
+            </a>
+            <div class="close-menu-button w-nav-button">
+              <img
+                src="https://assets-global.website-files.com/64f4d4be366fe5c8cbd6904c/64f4d4be366fe5c8cbd690fc_close-btn.svg"
+                loading="lazy"
+                alt="icon"
+                class="nav-close-icon"
+              />
+            </div>
+          </div>
+          <div class="menu-wrap">
+            <div class="header-link-wrapper left-header">
+              <div
+                data-hover="true"
+                data-delay="0"
+                data-ms-content=""
+                class="nav-dropdown w-dropdown"
+              >
+                <div class="nav-dropdown-toggle w-dropdown-toggle">
+                  <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                  <p class="nav-item-title"></p>
+                </div>
+                <nav class="nav-dropdown-list w-dropdown-list">
+                  <div class="nav-dropdown-link-wrapper">
+                    <a
+                      href="/horoscopes#tab-2:1"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:2"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:3"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:4"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:5"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:6"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:7"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:8"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:9"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:10"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:11"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                    <a
+                      href="/horoscopes#tab-2:12"
+                      class="nav-dropdown-link-hidden w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      
+                    </a>
+                  </div>
+                </nav>
+              </div>
+              <a href="/forecasts" class="nav-link w-nav-link"></a>
+              <a href="/events" class="nav-link w-nav-link"></a>
+              <a href="/courses" class="nav-link w-nav-link"></a>
+              <a href="/upgrade-landing" class="nav-link w-nav-link"
+              >
+              <a href="/tree-of-life" class="nav-link w-nav-link"
+                ></a
+              >
+            </div>
+            <a
+              href="/"
+              aria-current="page"
+              class="brand navmenu w-nav-brand w--current"
+            >
+              <img src="./logo.jpeg" loading="lazy" alt="" class="eye-logo" />
+            </a>
+            <div class="header-link-wrapper justify-end-header">
+              <a href="/book" class="nav-link w-nav-link"> </a>
+              <a href="/blog" class="nav-link w-nav-link"></a>
+              <a href="/about-us" class="nav-link w-nav-link"></a>
+              <div
+                data-hover="true"
+                data-delay="0"
+                data-ms-content=""
+                data-w-id="9e6151a3-194c-a9cb-3458-f18cf144d007"
+                class="nav-dropdown w-dropdown"
+              >
+                <div class="nav-dropdown-toggle w-dropdown-toggle">
+                  <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                  <p class="nav-item-title"> </p>
+                </div>
+                <nav class="nav-dropdown-list w-dropdown-list">
+                  <div class="nav-dropdown-link-wrapper">
+                    <a
+                      href="#"
+                      class="nav-dropdown-link-hidden loginshow w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      Log In
+                    </a>
+                    <a
+                      href="#"
+                      class="nav-dropdown-link-hidden signupshow w-dropdown-link"
+                    >
+                      <span class="nav-dropdown-link-line"></span>
+                      Sign Up
+                    </a>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <a
+          href="/"
+          aria-current="page"
+          class="brand tablet w-nav-brand w--current"
+        >
+          <img src="./logo.jpeg" loading="lazy" alt="" class="eye-logo" />
+        </a>
+        <div class="button-tablet-wrapper">
+          <div class="menu-button w-nav-button">
+            <img
+              src="https://assets-global.website-files.com/64f4d4be366fe5c8cbd6904c/64f4d4be366fe5c8cbd690fb_menu-btn.svg"
+              loading="lazy"
+              alt="icon"
+              height="16"
+              class="image-burger"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
